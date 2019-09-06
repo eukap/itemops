@@ -1,0 +1,12 @@
+[package]
+name = "itemops"
+version = "0.1.0"
+authors = ["eukap"]
+edition = "2018"
+description = "Provides some operations on items of slices"
+repository = "https://github.com/eukap/itemops"
+readme = "README.md"
+keywords = ["itemops", "slices", "sum items", "multiply with a step"]
+license = "MIT"
+
+[dependencies]
