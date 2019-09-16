@@ -1,4 +1,6 @@
-# Description
+# ![Crates.io](https://img.shields.io/crates/v/itemops?style=plastic) ![Crates.io](https://img.shields.io/crates/l/itemops?style=plastic)
+
+## Description
 
 itemops provides some operations on items of Rust language slices.
 
