@@ -1,4 +1,4 @@
-# ![Crates.io](https://img.shields.io/crates/v/itemops?style=plastic) ![Crates.io](https://img.shields.io/crates/l/itemops?style=plastic)
+# [![Crates.io](https://img.shields.io/crates/v/itemops?style=plastic)](https://crates.io/crates/itemops) [![Crates.io](https://img.shields.io/crates/l/itemops?style=plastic)](https://github.com/eukap/itemops/blob/master/LICENSE)
 
 ## Description
 
