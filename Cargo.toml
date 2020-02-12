@@ -9,6 +9,6 @@ readme = "README.md"
 keywords = ["slice", "vector", "array", "sum", "product"]
 categories = ["algorithms"]
 license = "MIT"
-exclude = ["tests/*", ".gitignore", ".cargo_vcs_info.json"]
+exclude = ["tests/*"]
 
 [dependencies]
