@@ -22,8 +22,8 @@ impl<T> ItemSum for &[T]
     /// 
     /// # Panics  
     /// 
-    /// This method will panic if the computation overflows
-    /// and debug assertions are enabled.  
+    /// When a primitive integer type is being returned, this method will panic
+    /// if the computation overflows and debug assertions are enabled.  
     /// 
     /// # Examples  
     /// 
@@ -66,8 +66,8 @@ impl<T> ItemProduct for &[T]
     /// 
     /// # Panics  
     /// 
-    /// This method will panic if the computation overflows
-    /// and debug assertions are enabled. 
+    /// When a primitive integer type is being returned, this method will panic
+    /// if the computation overflows and debug assertions are enabled. 
     /// 
     /// # Examples  
     /// 
